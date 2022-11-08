@@ -40,3 +40,10 @@ You can click the Preview link to take a look at your changes.
   [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush211107&count_private=true&theme=cobalt)](#)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush211107&theme=dark" alt="singhsduos" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush211107&show_icons=true&locale=en&theme=dark" alt="Ayush211107" />
+
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush211107&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
