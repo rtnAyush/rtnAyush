@@ -46,4 +46,5 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush211107&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush211107&show_icons=true&locale=en&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush211107&layout=compact&theme=vision-friendly-dark" alt="Ayush211107" />
