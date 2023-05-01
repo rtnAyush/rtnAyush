@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Full stack web development on Udmey
 - 💞️ I’m looking to collaborate on Any project related to my skills
-- 📫 How to reach me -> just mail to my email address => 7126924ak+github@gmail.com
+- 📫 How to reach me -> just mail to my email address => ayushkumar.dev25+github@gmail.com
 
 <!---
 Ayush211107/Ayush211107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,8 +29,8 @@ You can click the Preview link to take a look at your changes.
  	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<!--   	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;height="40"/>&nbsp; -->
+<!--   	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; -->
+  	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;height="40"/>&nbsp;
   	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
