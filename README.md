@@ -81,7 +81,7 @@
 <hr>
 
 # 🏆 GitHub Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtnAyush&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="" /></a> </p>
 
 # 📊 My GitHub Stats:
 
@@ -97,20 +97,25 @@
 </div> -->
 
 <!-- Dark Mode -->
+<!--
 <a href="https://github.com/rtnAyush/github-readme-stats">
-<img height=325 src="https://github-readme-stats.vercel.app/api?username=rtnAyush&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000" alt="Anurag's github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rtnAyush&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000" alt="Anurag's github stats" width=50% height=50%>
 </a>  
-<a href="https://github.com/rtnAyush/github-readme-stats">
-<img height=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtnAyush&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000" />
+<a align="right" href="https://github.com/rtnAyush/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtnAyush&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000" width=50% height=50%>
 </a> 
 <a href="https://github-readme-streak-stats.herokuapp.com">
 <img height=185 src="https://github-readme-streak-stats.herokuapp.com/?user=rtnAyush&theme=dark&bg_color=000000&hide_border=true" style="background-color:#00000" />
 </a> 
 
 <a href="https://github-contributor-stats.vercel.app/api">
-<!-- 	<p>🔝 Top Contributed Repo</p>  -->
+
 <img height=185 src="https://github-contributor-stats.vercel.app/api?username=rtnAyush&limit=5&hide_border=true&theme=dark&bg_color=000000" />
 </a> 
+-->
+
+
+| ![Kiku](https://github-readme-stats.vercel.app/api?username=rtnAyush&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000)        | ![Kiku](https://github-readme-stats.vercel.app/api/top-langs/?username=rtnAyush&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000)|
+| --------------------------------------- | --------------------------------------- |
+| ![strick](https://github-readme-streak-stats.herokuapp.com/?user=rtnAyush&theme=dark&bg_color=000000&hide_border=true) | ![contributed Repo](https://github-contributor-stats.vercel.app/api?username=rtnAyush&limit=5&hide_border=true&theme=dark&bg_color=000000)|
 </div>
-
-
