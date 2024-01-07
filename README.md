@@ -4,17 +4,15 @@
 
 - 👀 I’m interested in **Web Devlopment , WEB3.0**
 - 🌱 I’m currently Working as **MERN STACK DEVLOPER**
-- 💞️ I’m looking to collaborate on Any project related to my skills
-- 📫 How to reach me -> just mail to my email address => ayushkumar.dev25+github@gmail.com
+- 💞️ I’m looking to collaborate on Any project related to my skills.
+
 
 <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rtn-ayush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="candy-velazco" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Aa_Yush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hr" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="cc" height="30" width="40" /></a> -->
-<!-- <a href="https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ld" height="30" width="40" /></a> -->
-</p>
+
+## 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-%2523E4405F.svg?logo=Gmail&logoColor=red&color=%23FFFFFF)](https://mail.google.com/mail/u/0/?tf=cm&to=ayushkumar.dev25+github@gmail.com)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rtnAyush) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rtnAyush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rtnAyush)
+<!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20331641) --> 
+
 <hr>
 
 # 💻 Tech and Tools:
