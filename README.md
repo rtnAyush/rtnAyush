@@ -10,7 +10,7 @@
 <hr>
 
 ## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-%2523E4405F.svg?logo=Gmail&logoColor=red&color=%23FFFFFF)](https://mail.google.com/mail/u/0/?tf=cm&to=ayushkumar.dev25+github@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rtnAyush) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rtnAyush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rtnAyush)
+[![Gmail](https://img.shields.io/badge/Gmail-%2523E4405F.svg?logo=Gmail&logoColor=red&color=%23FFFFFF)](https://mail.google.com/mail/u/0/?tf=cm&to=ayushkumar.dev25@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rtnAyush) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rtnAyush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rtnAyush)
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20331641) --> 
 
 <hr>
