@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=rtnAyush&icon=9&color=10" alt="rtnAyush" /> </p>
 
-- 👀 I’m interested in **Web Devlopment , WEB3.0**
+- 👀 I’m interested in **Web Devlopment**
 - 🌱 I’m currently Working as **MERN STACK DEVLOPER**
 - 💞️ I’m looking to collaborate on Any project related to my skills.
 
